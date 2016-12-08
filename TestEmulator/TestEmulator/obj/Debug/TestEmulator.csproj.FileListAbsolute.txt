@@ -1,0 +1,11 @@
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\bin\Debug\TestEmulator.exe.config
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\bin\Debug\TestEmulator.exe
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\bin\Debug\TestEmulator.pdb
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.csprojResolveAssemblyReference.cache
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.Properties.Resources.resources
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.csproj.GenerateResource.Cache
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.exe
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.pdb
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.frmCreateNewOrg.resources
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.MenuSelectionOrganisme.resources
+d:\visual studio 2015\Projects\TestEmulator\TestEmulator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
