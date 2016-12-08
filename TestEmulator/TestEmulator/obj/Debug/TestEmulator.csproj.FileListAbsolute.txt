@@ -9,3 +9,6 @@ d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.
 d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.frmCreateNewOrg.resources
 d:\visual studio 2015\Projects\TestEmulator\TestEmulator\obj\Debug\TestEmulator.MenuSelectionOrganisme.resources
 d:\visual studio 2015\Projects\TestEmulator\TestEmulator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Data\Source\Repos\ACPTEST\TestEmulator\TestEmulator\bin\Debug\TestEmulator.exe.config
+D:\Data\Source\Repos\ACPTEST\TestEmulator\TestEmulator\obj\Debug\TestEmulator.exe
+D:\Data\Source\Repos\ACPTEST\TestEmulator\TestEmulator\obj\Debug\TestEmulator.pdb
